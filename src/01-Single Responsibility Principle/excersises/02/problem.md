@@ -1,0 +1,1 @@
+An `Invoice` class calculates line-item totals and taxes, and also contains a method to generate and save the invoice as a PDF file (`generatePDF()`).
